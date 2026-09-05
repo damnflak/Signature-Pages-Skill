@@ -1,0 +1,14 @@
+# Publish only the reusable skill and repository documentation.
+/*
+!/.gitattributes
+!/.gitignore
+!/README.md
+!/signature-pages/
+/signature-pages/*
+!/signature-pages/SKILL.md
+!/signature-pages/agents/
+!/signature-pages/references/
+/signature-pages/agents/*
+!/signature-pages/agents/openai.yaml
+/signature-pages/references/*
+!/signature-pages/references/*.md

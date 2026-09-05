@@ -1,0 +1,4 @@
+interface:
+  display_name: "Signature Pages"
+  short_description: "Build legal signature-page packages"
+  default_prompt: "Use $signature-pages to build a legal signature-page package with per-file signer source checks, SHA/SPA schedule-driven labels, and sample-first body drafting that uses desensitized examples with source-supported values."
